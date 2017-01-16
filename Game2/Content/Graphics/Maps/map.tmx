@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="70" tileheight="70" nextobjectid="13">
+ <tileset firstgid="1" source="sheet.tsx"/>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data>
+   <tile gid="38"/>
+   <tile gid="26"/>
+   <tile gid="26"/>
+   <tile gid="26"/>
+   <tile gid="26"/>
+   <tile gid="26"/>
+   <tile gid="26"/>
+   <tile gid="26"/>
+   <tile gid="26"/>
+   <tile gid="31"/>
+   <tile gid="10"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="3"/>
+   <tile gid="10"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="44"/>
+   <tile gid="34"/>
+   <tile gid="37"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="3"/>
+   <tile gid="10"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="34"/>
+   <tile gid="34"/>
+   <tile gid="34"/>
+   <tile gid="37"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="3"/>
+   <tile gid="10"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="34"/>
+   <tile gid="34"/>
+   <tile gid="34"/>
+   <tile gid="34"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="3"/>
+   <tile gid="10"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="29"/>
+   <tile gid="34"/>
+   <tile gid="34"/>
+   <tile gid="34"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="3"/>
+   <tile gid="10"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="29"/>
+   <tile gid="34"/>
+   <tile gid="22"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="3"/>
+   <tile gid="10"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="3"/>
+   <tile gid="10"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="36"/>
+   <tile gid="3"/>
+   <tile gid="23"/>
+   <tile gid="43"/>
+   <tile gid="43"/>
+   <tile gid="43"/>
+   <tile gid="43"/>
+   <tile gid="43"/>
+   <tile gid="43"/>
+   <tile gid="43"/>
+   <tile gid="43"/>
+   <tile gid="16"/>
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="4" name="Hole" x="209.333" y="212">
+   <polyline points="0,0 0,136 12,157.333 36,164 48,190.667 70.6667,208 80,225.333 104,234.667 113.333,254.667 117.333,261.333 138.667,276 208,276 233.333,261.333 244,236 265.333,226.667 278.667,206.667 278.667,65.3333 266.667,42.6667 240,37.3333 236,13.3333 208,-5.33333 194.667,-25.3333 173.333,-32 162.667,-60 138.667,-72 68,-73.3333 44,-60 37.3333,-33.3333 13.3333,-28 -1.33333,-1.33333"/>
+  </object>
+  <object id="5" name="Left Wall" x="4" y="4" width="21.3333" height="692"/>
+  <object id="6" name="Bottom Wall" x="2.66667" y="677.333" width="693.333" height="20"/>
+  <object id="7" name="Right Wall" x="676" y="2.66667" width="21.3333" height="694.667"/>
+  <object id="8" name="Top Wall" x="1.33333" y="2.66667" width="696" height="18.6667"/>
+ </objectgroup>
+</map>
