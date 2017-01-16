@@ -9,7 +9,7 @@ using MonoGame;
 namespace Game2
 {
     /// <summary>
-    /// This is the main type for your game.
+    /// This is the main type for your game..
     /// </summary>
     public class Game : Microsoft.Xna.Framework.Game
     {
